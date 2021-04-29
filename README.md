@@ -1,2 +1,7 @@
-# appointment-scheduler
-An appointment scheduler that utilizes binary search trees
+# Appointment Scheduler
+
+  • This unique appointment scheduler utilizes binary search trees, and functions in terms of "[Urgency Level] - [Appointment Name]"
+  
+# Access Codes:
+  • Appointment_Scheduler > Appointment_Scheduler > Appointment_Scheduler.cpp
+ 
